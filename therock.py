@@ -231,7 +231,7 @@ while True:
                 time.sleep(1)
 
         case "7":
-            print("Shutting down the matrix. Goodbye, comrade.")
+            print("Goodbye, comrade. *leaves agressively*")
             break
 
         case _:
